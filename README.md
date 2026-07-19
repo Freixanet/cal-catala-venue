@@ -31,4 +31,4 @@ npm run dev
 
 ## Author
 
-**Marcos Freixanet** · [github.com/Freixanet](https://github.com/Freixanet) · marcfreixanet@gmail.com
+**Marcos Freixanet** · [github.com/Freixanet](https://github.com/Freixanet) · mfreixanet@icloud.com
