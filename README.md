@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Cal Català Venue
 
-# Run and deploy your AI Studio app
+Commercial site for **Cal Català** (Súria) — local hospitality / venue frontend with polished product UI.
 
-This contains everything you need to run your app locally.
+**Demo:** [https://freixanet.github.io/cal-catalan-suria-4/](https://freixanet.github.io/cal-catalan-suria-4/)  
+*(GitHub Pages URL may follow the previous repo name until Pages is re-pointed.)*
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ExyIgmXo67gN4PxLks2pEetprt70U-9B
+---
 
-## Run Locally
+## What this is
 
-**Prerequisites:**  Node.js
+A place-brand marketing surface for a local venue: atmosphere, practical info, and a clean commercial first impression.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Stack
+
+- TypeScript
+- Modern frontend stack
+
+---
+
+## Local development
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Author
+
+**Marcos Freixanet** · [github.com/Freixanet](https://github.com/Freixanet) · marcfreixanet@gmail.com
